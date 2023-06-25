@@ -1,11 +1,11 @@
-About r-sftime
-==============
+About r-sftime-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sftime-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=sftime
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sftime-feedstock/blob/main/LICENSE.txt)
 
 Summary: Classes and methods for spatial objects that have a registered time column, in particular for irregular spatiotemporal data. The time column can be of any type, but needs to be ordinal. Regularly laid out spatiotemporal data (vector or raster data cubes) are handled by package 'stars'.
 
