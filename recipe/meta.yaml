@@ -1,4 +1,4 @@
-{% set version = "0.3.0" %}
+{% set version = "0.3.1" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,7 +9,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/sftime_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/sftime/sftime_{{ version }}.tar.gz
-  sha256: adadd4d5f6ef388b7145d83896fcc020ad03475eae9d86a100d6207611ded7b7
+  sha256: d1df6a2f611059e1949a3b2ef75ec5310e7cca4289dcf7af369197f4d5c68874
 
 build:
   number: 0
